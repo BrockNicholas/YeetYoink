@@ -1474,12 +1474,6 @@ MonoBehaviour:
   P1Card: {fileID: 1230605811}
   MainCard: {fileID: 677637202}
   P2Card: {fileID: 1404994006}
-  P1DeckCoord: {x: 0, y: 0, z: 0}
-  P1PlayCoord: {x: 0, y: 0, z: 0}
-  MainDeckCoord: {x: 0, y: 0, z: 0}
-  MainPlayCoord: {x: 0, y: 0, z: 0}
-  P2DeckCoord: {x: 0, y: 0, z: 0}
-  P2PlayCoord: {x: 0, y: 0, z: 0}
   P1DeckLabel: {fileID: 671327126}
   P1PlayLabel: {fileID: 555046886}
   MainPlayLabel: {fileID: 1716795956}
