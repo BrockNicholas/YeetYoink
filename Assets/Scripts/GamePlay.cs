@@ -55,11 +55,5 @@ public class GamePlay : MonoBehaviour
         P2DeckCoord = P2Card.transform.position;
         P2PlayCoord = GameObject.Find("P2PlayCoord").transform.position;
 
-        P1DeckLabel.transform.position = P1DeckCoord + new Vector3(20f, 20f, 0);        
-        P1PlayLabel.transform.position = P1PlayCoord;
-        MainPlayLabel.transform.position = MainPlayCoord;
-        P2DeckLabel.transform.position = P2DeckCoord;
-        P2PlayLabel.transform.position = P2PlayCoord;
-
     }
 }
